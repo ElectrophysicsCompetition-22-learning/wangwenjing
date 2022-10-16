@@ -1,0 +1,6 @@
+﻿  源.c
+C:\Users\86195\Desktop\C_learning\test04\test(6)\test(6)\源.c(7,34): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\86195\Desktop\C_learning\test04\test(6)\test(6)\源.c(9,28): warning C4552: ”+“: 未使用表达式结果
+C:\Users\86195\Desktop\C_learning\test04\test(6)\test(6)\源.c(12,57): error C2137: 空字符常量
+C:\Users\86195\Desktop\C_learning\test04\test(6)\test(6)\源.c(15,14): warning C4047: “函数”:“int”与“char [2]”的间接级别不同
+C:\Users\86195\Desktop\C_learning\test04\test(6)\test(6)\源.c(15,10): warning C4024: “putchar”: 形参和实参 1 的类型不同
